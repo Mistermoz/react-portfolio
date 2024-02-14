@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Claudio Donoso",
+      "titles": [ "Senior Front-end Developer", "Mid Back-End Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/mistermoz",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/mistermoz",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "ReactJS",
+          "class": "devicon-react-plain",
+          "level": "20"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "90"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "85"
+        },
+        {
+          "name": "Vue",
+          "class": "devicon-vuejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "Php",
+          "class": "devicon-php-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
