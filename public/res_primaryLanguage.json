@@ -1,0 +1,77 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Claudio Donoso. ",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Test",
+        "startDate": "2020",
+        "description": "Test",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "VueJS"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-sass-plain",
+            "name": "Sass"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Cornershop by Uber",
+        "title": "Front-End Developer",
+        "years": "08.2021 - 12.2023",
+        "mainTech": [
+          "React 18"
+        ],
+        "technologies": [
+          "Rest API",
+          "Sass",
+          "TypeScript",
+          "JavaScript",
+          "Redux",
+          "CSS3"
+        ]
+      },
+      {
+        "company": "Yapo.cl",
+        "title": "Front-End Developer",
+        "years": "03.2017 - 08.2021",
+        "mainTech": [
+          "Vue 2/3"
+        ],
+        "technologies": [
+          "Vuex",
+          "ReactJs",
+          "TypeScript",
+          "JavaScript",
+          "CSS3",
+          "Sass",
+          "GraphQL",
+          "WebComponents",
+          "Rest API",
+          "MicroFrontEnd",
+          "Lerna"
+        ]
+      }
+    ]
+  }
