@@ -51,6 +51,7 @@
     "debug": ">=4.3.1",
     "es5-ext": ">=0.10.63",
     "node-notifier": ">=8.0.1",
-    "elliptic": ">=6.5.4"
+    "elliptic": ">=6.5.4",
+    "lodash": "^4.17.21"
   }
 }
